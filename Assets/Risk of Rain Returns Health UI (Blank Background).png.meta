@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7dd3371078dda3141be313b2adc9f476
+guid: bb80dc792bf3cc042953ea5ecb523e25
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3887571797712497343
-    second: Risk of Rain Returns Health UI_0
+      213: 6477392707659915110
+    second: Risk of Rain Returns Health UI (Blank Background)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Risk of Rain Returns Health UI_0
+      name: Risk of Rain Returns Health UI (Blank Background)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 500
-        height: 500
+        x: 77
+        y: 152
+        width: 374
+        height: 307
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fbaea79e3fd63f530800000000000000
-      internalID: 3887571797712497343
+      spriteID: 66f56c2595254e950800000000000000
+      internalID: 6477392707659915110
       vertices: []
       indices: 
       edges: []
