@@ -2,15 +2,20 @@ using UnityEngine;
 
 public class Abilities : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+
+    public float cdTime = 2;
+    private float nextUseTime = 0;
+
+    private void Update()
     {
-        
+        if (Time.time > nextUseTime)
+        {
+            if (Input.GetKeyDown(KeyCode.J))
+            {
+                print("yep");
+                nextUseTime = Time.time + cdTime;
+            }
+        }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

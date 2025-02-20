@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bb80dc792bf3cc042953ea5ecb523e25
+guid: fd4bc4536bbf8a143a40007e6608cd9c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6477392707659915110
-    second: Risk of Rain Returns Health UI (Blank Background)_0
+      213: 2504540756845807253
+    second: RORR Updated HAB_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Risk of Rain Returns Health UI (Blank Background)_0
+      name: RORR Updated HAB_0
       rect:
         serializedVersion: 2
         x: 77
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66f56c2595254e950800000000000000
-      internalID: 6477392707659915110
+      spriteID: 59648497c8ae1c220800000000000000
+      internalID: 2504540756845807253
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RORR Updated HAB_0: 2504540756845807253
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
