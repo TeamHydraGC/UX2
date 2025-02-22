@@ -112,15 +112,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RoRR HAB Ability Icons_0
+      name: HAB1
       rect:
         serializedVersion: 2
-        x: 143
-        y: 238
-        width: 47
-        height: 46
+        x: 144
+        y: 239
+        width: 45
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,15 +134,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RoRR HAB Ability Icons_1
+      name: HAB2
       rect:
         serializedVersion: 2
-        x: 198
-        y: 238
-        width: 47
-        height: 46
+        x: 199
+        y: 239
+        width: 45
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -156,15 +156,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RoRR HAB Ability Icons_2
+      name: HAB3
       rect:
         serializedVersion: 2
-        x: 260
-        y: 238
-        width: 47
-        height: 46
+        x: 261
+        y: 239
+        width: 45
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -178,15 +178,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RoRR HAB Ability Icons_3
+      name: HAB4
       rect:
         serializedVersion: 2
-        x: 316
-        y: 238
-        width: 47
-        height: 46
+        x: 317
+        y: 239
+        width: 45
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,15 +200,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RoRR HAB Ability Icons_4
+      name: HABCD
       rect:
         serializedVersion: 2
-        x: 372
-        y: 238
-        width: 47
-        height: 46
+        x: 373
+        y: 239
+        width: 45
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,7 +225,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c7dbe3a6307401140a68f260bce39183
     internalID: 0
     vertices: []
     indices: 
@@ -235,11 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      RoRR HAB Ability Icons_0: -5970193162586412129
-      RoRR HAB Ability Icons_1: 1063269250518560063
-      RoRR HAB Ability Icons_2: -4100622567358322829
-      RoRR HAB Ability Icons_3: 1329681757496882172
-      RoRR HAB Ability Icons_4: 501102891492577322
+      HAB1: -5970193162586412129
+      HAB2: 1063269250518560063
+      HAB3: -4100622567358322829
+      HAB4: 1329681757496882172
+      HABCD: 501102891492577322
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

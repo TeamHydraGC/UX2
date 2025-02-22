@@ -1,3 +1,2 @@
 <engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <engine:VisualElement name="HABBackground" style="position: absolute; bottom: 20px; width: 100%; height: 100%; background-image: url(&quot;project://database/Assets/Sprites/RoRR%20HAB%20Full.png?fileID=2800000&amp;guid=988e2235172732a4884a08cb2da029ee&amp;type=3#RoRR HAB Full&quot;); background-size: 100% 100%; top: auto; left: auto; right: auto; min-width: 366px; min-height: 144px; max-width: 0; max-height: 0; align-self: center; align-content: center; align-items: center; justify-content: center;" />
 </engine:UXML>
