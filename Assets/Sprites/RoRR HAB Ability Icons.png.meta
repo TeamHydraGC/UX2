@@ -116,9 +116,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 143
-        y: 237
+        y: 238
         width: 47
-        height: 47
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,9 +137,9 @@ TextureImporter:
       name: RoRR HAB Ability Icons_1
       rect:
         serializedVersion: 2
-        x: 197
+        x: 198
         y: 238
-        width: 48
+        width: 47
         height: 46
       alignment: 0
       pivot: {x: 0, y: 0}

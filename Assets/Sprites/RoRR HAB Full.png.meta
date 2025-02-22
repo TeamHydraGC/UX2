@@ -103,10 +103,10 @@ TextureImporter:
       name: RoRR HAB Full_0
       rect:
         serializedVersion: 2
-        x: 83
-        y: 152
-        width: 368
-        height: 146
+        x: 0
+        y: 0
+        width: 366
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
