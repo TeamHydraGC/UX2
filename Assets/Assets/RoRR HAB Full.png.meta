@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b6943e0102ce97d449cad88aa4c491bf
+guid: 988e2235172732a4884a08cb2da029ee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -68120983242966976
-    second: RoRR HAB Ability 1_0
+      213: 1987905804978492571
+    second: RoRR HAB Full_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RoRR HAB Ability 1_0
+      name: RoRR HAB Full_0
       rect:
         serializedVersion: 2
-        x: 141
-        y: 236
-        width: 50
-        height: 49
+        x: 83
+        y: 152
+        width: 368
+        height: 146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0487d00a35cfd0ff0800000000000000
-      internalID: -68120983242966976
+      spriteID: b941ea81cc5769b10800000000000000
+      internalID: 1987905804978492571
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      RoRR HAB Ability 1_0: -68120983242966976
+      RoRR HAB Full_0: 1987905804978492571
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
