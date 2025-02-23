@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 988e2235172732a4884a08cb2da029ee
+guid: 12ed30c4e55acec43b2e66ae3a389633
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1987905804978492571
-    second: RoRR HAB Full_0
+      213: 2140063320639728215
+    second: RoRR HAB Full 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RoRR HAB Full_0
+      name: RoRR HAB Full 1_0
       rect:
         serializedVersion: 2
-        x: 27
+        x: 0
         y: 0
-        width: 339
-        height: 144
+        width: 394
+        height: 152
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b941ea81cc5769b10800000000000000
-      internalID: 1987905804978492571
+      spriteID: 75ae297604803bd10800000000000000
+      internalID: 2140063320639728215
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: e6042b08d98be914d8744a1c3faed610
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      RoRR HAB Full_0: 1987905804978492571
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
